@@ -1,0 +1,7 @@
+package com.example.demo.repositories;
+
+import java.lang.runtime.ObjectMethods;
+
+public class PersonRepository extends ObjectMethods {
+
+}
